@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://mackaulyn.github.io/O-Patio-Cafe/">
-    <img src="./img/github-header-banner.png" alt="Banner O Pátio Café" width="100%">
-  </a>
+    <img src="./img/bingo-ditados-populares-header.png" alt="Banner Bingo Ditados Populares" width="100%">
 </p>
 
 # 🎲 Bingo de Ditados Populares - Recreação Cognitiva
